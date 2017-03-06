@@ -1,0 +1,2 @@
+include ':service', ':logapp', ':headerlistapp', ':uuireader'
+//':app',
